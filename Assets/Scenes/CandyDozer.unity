@@ -270,7 +270,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 169930117}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -2.44}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 6176079117242762922}
@@ -634,6 +634,8 @@ MonoBehaviour:
   effectPrefab: {fileID: 2186245145050829038, guid: 1be43eedf84fabe40a01eaf85b9b2196,
     type: 3}
   effectRotation: {x: -90, y: 0, z: 0}
+  effectCeleb: {fileID: 1130786095985958383, guid: 09f0193a5c7d6394596a0f5eda865487,
+    type: 3}
 --- !u!4 &328076201
 Transform:
   m_ObjectHideFlags: 0
@@ -3105,6 +3107,7 @@ MonoBehaviour:
   reward: 0
   effectPrefab: {fileID: 0}
   effectRotation: {x: 0, y: 0, z: 0}
+  effectCeleb: {fileID: 0}
 --- !u!4 &1665119972
 Transform:
   m_ObjectHideFlags: 0

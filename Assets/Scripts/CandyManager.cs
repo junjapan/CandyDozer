@@ -1,6 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+//仕様。
+//・制限時間内にエフェクトしたキャンディーの数が一定の数を超えたら祝の文字を出してエフェクトさせる。
+//・飛んでる鳥がキャンディーの邪魔をする。
 
 public class CandyManager : MonoBehaviour
 {
